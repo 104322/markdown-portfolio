@@ -1,4 +1,4 @@
-*Shopping
-*Working
-*Learing GitHub
-*Comments
+- Shopping
+- Working
+- Learing GitHub
+- Comments
